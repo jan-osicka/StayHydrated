@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StayHydrated</string>
+    <string name="app_author">Jan Osička</string>
 </resources>
